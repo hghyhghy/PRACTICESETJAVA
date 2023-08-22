@@ -348,3 +348,49 @@ public class Ps13
 
   }
 }
+
+
+
+
+
+
+
+
+
+
+
+OUTPUT:
+
+
+
+THE LIST IS AS FOLLOWS
+GREEN
+YELLOW
+BALCK
+WHITE
+NOW THE UPDATED LIST IS AS FOLLOWS
+GREEN
+YELLOW
+BALCK
+WHITE
+PINK
+ THE NUMBERS ARE AS FOLLOWS
+2
+5
+7
+9
+AFTER UPDATING THE LISTS ARE
+0
+2
+5
+7
+9
+first the newly printed linked list is
+7
+8
+[0, 67, 7, 8]
+now the tree set of the hashset is as follows
+0
+67
+7
+8
