@@ -348,3 +348,25 @@ n1.balance= 145000;
    System.out.println("the speed of the motorcycle" + " " + motorcycle.getSpeed());
 }
 }
+
+
+#output
+
+
+
+The flightnumber is  AIRIN3405
+THE ORIGIN OF THE Flightnumber AIRIN3405 is NEW DELHI
+THE DESTINATION OF THE Flightnumber AIRIN3405 is KOLKATA
+The arrival time of the flightnumber  AIRIN3405  is 9:00 
+The Departure  time of the flightnumber  AIRIN3405  is  6:00 
+The schedulearrival  time of the flightnumber  AIRIN3405  is  7:00
+the name of the account holder is  SUBHAM SARKAR
+Your   account balance is  Rs :145000
+PLEASE COLLECT YOUR CASH Rs:26000
+The accountnumber is  :345643890
+Car initial speed  0
+Motorcycle initial speed  0
+ the car speed is increased by   22 units:
+Motorcycle speed is incresed by 12 units 
+Car speed after speed up 10
+the speed of the motorcycle 10
